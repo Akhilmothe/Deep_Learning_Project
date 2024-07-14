@@ -1,5 +1,6 @@
 # Deep_Learning_Project
-Chest X-Ray Classification | DenseNet | 92%
+# Chest X-Ray Classification | DenseNet | 92%
+
 This project aims to classify pediatric chest X-ray images into two categories: Normal and Pneumonia. The dataset consists of 5,863 images across train, test, and validation sets. Expert physicians from Guangzhou Women and Children’s Medical Center graded the images.
 
 Dataset link :https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia/data
@@ -18,5 +19,5 @@ A confusion matrix visualizes the model's performance on the test set.
 5. Model Evaluation and Visualization
 Selected images from the test set are displayed with their actual and predicted labels. Additionally, the model's confidence in its predictions is visualized through probability distributions for each class.
 
-Conclusion
+# Conclusion
 The DenseNet-based classifier achieves a high accuracy of 92% on the test set, demonstrating its effectiveness in distinguishing between normal and pneumonia chest X-ray images.
