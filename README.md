@@ -1,6 +1,10 @@
 # Deep_Learning_Project
 # Chest X-Ray Classification | DenseNet | 92%
 
+![image](https://github.com/user-attachments/assets/1f38728f-25b9-4688-bbc6-fe7563d77638)              ![image](https://github.com/user-attachments/assets/895dfd64-4f13-4d11-b987-ea9ace2e426d)
+
+
+
 This project aims to classify pediatric chest X-ray images into two categories: Normal and Pneumonia. The dataset consists of 5,863 images across train, test, and validation sets. Expert physicians from Guangzhou Women and Children’s Medical Center graded the images.
 
 Dataset link :https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia/data
